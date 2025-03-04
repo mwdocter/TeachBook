@@ -4,14 +4,6 @@ root: intro.md
 parts:
   - caption: Contents of Teachbook demo
     chapters:
-    - file: some_content/overview.md
-      sections:
-      - file: some_content/text_and_code.ipynb
-      - file: file_to_be_added_to_toc.md 
-    - file: some_content/overview.md
-      sections:
-      - file: some_content/text_and_code.ipynb
-      - file: file_to_be_added_to_toc.md 
     - file: exercises.md
       sections:
       - file: exercises/001.md
@@ -28,3 +20,7 @@ parts:
     - file: references.md
     - file: changelog.md
     - file: credits.md
+    - file: some_content/overview.md
+      sections:
+      - file: some_content/text_and_code.ipynb
+      - file: file_to_be_added_to_toc.md 
