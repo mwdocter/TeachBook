@@ -4,6 +4,7 @@ root: intro.md
 parts:
   - caption: Contents of Teachbook demo
     chapters:
+    - file: EI_manuals/Overview_manual.md
     - file: exercises.md
       sections:
       - file: exercises/001.md
