@@ -6,18 +6,18 @@ parts:
     chapters:
     - file: EI_manuals/Overview_manual.md
       sections:
-      - file: EI_manuals/1A_DMM+voltage_divider STUDENT.md
-      - file: EI_manuals/1B_output_function_generator STUDENT.md
-      - file: EI_manuals/1C LTSpice Intro STUDENT.md
-      - file: EI_manuals/2A using a scope STUDENT.md
-      - file: EI_manuals/2B triggering STUDENT.md
-      - file: EI_manuals/2C Thevenin equivalent with picoPI STUDENT.md
-      - file: EI_manuals/3A RC-RL circuits STUDENT.md
-      - file: EI_manuals/3B scope probes STUDENT.md
-      - file: EI_manuals/3C ground loop STUDENT.md
-      - file: EI_manuals/4A Fourier Transform STUDENT.md
-      - file: EI_manuals/4B RC STUDENTv2.md
-      - file: EI_manuals/4C RCCR STUDENT v2.md
+      - file: EI_manuals/1A_DMM+voltage_divider_STUDENT.md
+      - file: EI_manuals/1B_output_function_generator_STUDENT.md
+      - file: EI_manuals/1C_LTSpice_Intro_STUDENT.md
+      - file: EI_manuals/2A_using_a_scope_STUDENT.md
+      - file: EI_manuals/2B_triggering_STUDENT.md
+      - file: EI_manuals/2C_Thevenin_equivalent_with_picoPI_STUDENT.md
+      - file: EI_manuals/3A_RC-RL_circuits_STUDENT.md
+      - file: EI_manuals/3B_scope_probes_STUDENT.md
+      - file: EI_manuals/3C_ground_loop_STUDENT.md
+      - file: EI_manuals/4A_Fourier_Transform_STUDENT.md
+      - file: EI_manuals/4B_RC_STUDENTv2.md
+      - file: EI_manuals/4C_RCCR_STUDENT_v2.md
     - file: some_content/overview.md
       sections:
       - file: some_content/text_and_code.ipynb
