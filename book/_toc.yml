@@ -25,5 +25,4 @@ parts:
       - file: some_content/text_and_code.ipynb
       - file: file_to_be_added_to_toc.md 
     - file: EI_manuals/Overview_manual.md
-      sections:
-      - file: EI_manuals/1A_DMM+voltage_divider_STUDENT.md
+
