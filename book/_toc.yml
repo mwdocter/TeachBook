@@ -13,6 +13,7 @@ parts:
       - file: exercises/005.md
       - file: exercises/006.md
       - file: exercises/summary
+    - file: EI_manuals/4B_RC_STUDENTv2.md
     - file: syntax_exercises.md
       sections:
       - file: syntax_exercises/007.md
@@ -25,7 +26,6 @@ parts:
     - file: changelog.md
     - file: credits.md
     - file: EI_manual/1A_DMM+voltage_divider_STUDENT.md
-    
     - file: EI_manuals/Overview_manual.md
   
 
