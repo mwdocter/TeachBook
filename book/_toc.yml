@@ -17,13 +17,15 @@ parts:
       sections:
       - file: syntax_exercises/007.md
       - file: syntax_exercises/008.md
-    - file: references.md
-    - file: changelog.md
-    - file: credits.md
     - file: some_content/overview.md
       sections:
       - file: some_content/text_and_code.ipynb
       - file: file_to_be_added_to_toc.md 
-    - file: EI_manuals/Overview_manual.md
+      - file: references.md
+    - file: changelog.md
+    - file: credits.md
     - file: EI_manual/1A_DMM+voltage_divider_STUDENT.md
+    
+    - file: EI_manuals/Overview_manual.md
+  
 
