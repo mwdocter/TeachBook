@@ -18,7 +18,7 @@ parts:
       - file: EI_manuals/4A Fourier Transform STUDENT.md
       - file: EI_manuals/4B RC STUDENTv2.md
       - file: EI_manuals/4C RCCR STUDENT v2.md
-      - file: some_content/overview.md
+    - file: some_content/overview.md
       sections:
       - file: some_content/text_and_code.ipynb
       - file: file_to_be_added_to_toc.md 
