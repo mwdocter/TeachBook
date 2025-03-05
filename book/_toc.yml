@@ -39,7 +39,7 @@ parts:
       - file: EI_manuals/11C_Full_Bridge_Rectifier_STUDENT.ipynb
       - file: EI_manuals/12A_non_inverting_OPAMP_STUDENT.ipynb
       - file: EI_manuals/12B_inverting_opamp_STUDENT.ipynb
-      - file: EI_manuals/12C_OPAMP_current_to_voltage_STUDENT.ipynb
+      - file: EI_manuals/12C_OPAMP_current_to_voltage_opamp_concerter_STUDENT.ipynb
       - file: EI_manuals/13A_bias_and_offset_STUDENT.ipynb
       - file: EI_manuals/13B_OPAMP_bandwidth_STUDENT.ipynb
       - file: EI_manuals/13C_integrator_and_differentiator_STUDENT.ipynb
