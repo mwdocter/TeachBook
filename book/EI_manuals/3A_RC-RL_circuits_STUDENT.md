@@ -59,7 +59,8 @@ Structure of an experiment:
 - Evaluate (15 min): with a group of 4(per table)
 
 
-# EXPERIMENT 3A: Filtering while using circuits with frequency dependent behavior
+# Experiment 3A: Filtering 
+(filtering while using circuits with frequency dependent behavior)
 
 
 
