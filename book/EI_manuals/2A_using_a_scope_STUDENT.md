@@ -60,7 +60,7 @@ Structure of experiment:
 - Compare & Conclude (10 min): with group of 4 (per table)
 
 
-# Experiment 2A: Scope
+# 2A: Scope
 (Investigate the AC/DC coupling and the AC frequency dependency with the oscilloscope)
 
 > <font color='blue'>Learning goal:</font> be able to measure or calculate voltage and frequency with the oscillator, and understand how changing settings on the function generator and oscilloscope change your measurement.
