@@ -63,7 +63,7 @@ Structure of an experiment:
 <!-- #endregion -->
 
 <!-- #region -->
-# Experiment 4C: RCCR filter
+# 4C: RCCR filter
 (Investigate an RCCR circuit with PicoPi and compare to an RLC circuit in LTSpice)
 
 
