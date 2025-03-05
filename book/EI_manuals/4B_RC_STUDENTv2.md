@@ -64,7 +64,7 @@ Structure of an experiment:
 <!-- #endregion -->
 
 <!-- #region kernel="SoS" -->
-# Experiment 4B: RC filter
+# 4B: RC filter
 (Implement an RC circuit with PicoPi)
 
 > <font color='blue'>Learning goal:</font> Build the RC circuit and determine the time constant
