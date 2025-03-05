@@ -60,7 +60,7 @@ BASIC = background, anticipate, simulate, implement & investigate, compare&concl
 - 10 min compare&conclude                  : with group of 4 (per table)
 
 
-# 1A: DMM digital multi meter
+# 1A: Digital Multi Meter
 (Work with a digital multimeter to measure a voltage divider)
 > <font color='blue'>Learning goal:</font> understand how to use the DMM, how it behaves as part of a (voltage divider) circuit, and what its limitations are.
 
