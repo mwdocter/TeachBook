@@ -59,7 +59,7 @@ Structure of an experiment:
 - Compare + Conclude (10): with a group of 4(per table)
 
 
-# 3C: ground loop
+# 3C: ground loop 
 > <font color='blue'>Learning goal:</font> recognize when equipment you use is affecting your data aquisition
 
 
