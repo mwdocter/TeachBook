@@ -4,6 +4,7 @@ root: intro.md
 parts:
   - caption: Contents of Teachbook demo
     chapters:
+    
     - file: EI_manual_octal1.md
       sections:
       - file: EI_manuals/1A_DMM+voltage_divider_STUDENT.md
@@ -18,6 +19,7 @@ parts:
       - file: EI_manuals/4A_Fourier_Transform_STUDENT.md
       - file: EI_manuals/4B_RC_STUDENTv2.md
       - file: EI_manuals/4C_RCCR_STUDENT_v2.md
+      
     - file: EI_manual_octal2.md
       sections:
       - file: EI_manuals/6A_NI-DAQ+Stepper_motor_STUDENT.ipynb
@@ -32,6 +34,7 @@ parts:
       - file: EI_manuals/9A_Anti-Aliasing_STUDENT.ipynb
       - file: EI_manuals/9B_Digital_Filtering_and_Averaging_STUDENT.ipynb
       - file: EI_manuals/9C_Signal_Denoising_by_Average_STUDENT.ipynb
+      
     - file: EI_manual_octal3.md
       sections:
       - file: EI_manuals/11A_Diode_Clippers_STUDENT.ipynb
@@ -46,6 +49,7 @@ parts:
       - file: EI_manuals/14A_differential_and_common_mode_STUDENT.ipynb
       - file: EI_manuals/14B_comparator_with_hysteresis_final_STUDENT.ipynb
       - file: EI_manuals/14C_magnet_bridge_STUDENT.ipynb
+      
     - file: exercises.md
       sections:
       - file: exercises/001.md
