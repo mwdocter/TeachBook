@@ -18,7 +18,20 @@ parts:
       - file: EI_manuals/4A_Fourier_Transform_STUDENT.md
       - file: EI_manuals/4B_RC_STUDENTv2.md
       - file: EI_manuals/4C_RCCR_STUDENT_v2.md
-    
+    - file: EI_manual_octal2.md
+      sections:
+      - file: EI_manuals/6A_NI-DAQ+Stepper_motor_STUDENT.md
+      - file: EI_manuals/6B_logic+morse_STUDENT.md
+      - file: EI_manuals/6C_Whack-a-mole_STUDENT.md
+      - file: EI_manuals/7A_Analog_Inputs_STUDENT.md
+      - file: EI_manuals/7B_Fourier_Transform_Python_STUDENT.md
+      - file: EI_manuals/7C_receive_Morse_STUDENT.md
+      - file: EI_manuals/8A_Automated_filter_response_STUDENT.md
+      - file: EI_manuals/8B_Aliasing_a_single_sine_STUDENT.md
+      - file: EI_manuals/8C_Aliasing_multiple_sines_STUDENT.md
+      - file: EI_manuals/9A_Anti-Aliasing_STUDENT.md
+      - file: EI_manuals/9B_Digital_Filtering_and_Averaging_STUDENT.md
+      - file: EI_manuals/9C_Signal_Denoising_by_Average_STUDENT.md
     - file: exercises.md
       sections:
       - file: exercises/001.md
