@@ -60,7 +60,7 @@ Structure of experiment:
 - Compare & Conclude (10 min): with group of 4 (per table)
 
 <!-- #region kernel="SoS" -->
-# Experiment 2C: Thevenin
+# 2C: Thevenin
 (Use the picopi to measure the Thevenin equivalent of a circuit)
 
 > <font color='blue'>Learning goal:</font> Predict the Thevenin equivalent of a circuit and measure it with the Alpaca. 
