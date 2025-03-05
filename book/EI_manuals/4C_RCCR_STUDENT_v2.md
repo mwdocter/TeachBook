@@ -63,7 +63,8 @@ Structure of an experiment:
 <!-- #endregion -->
 
 <!-- #region -->
-# Experiment 4C: Investigate an RCCR circuit with PicoPi and compare to an RLC circuit in LTSpice
+# Experiment 4C: RCCR filter
+(Investigate an RCCR circuit with PicoPi and compare to an RLC circuit in LTSpice)
 
 
 > <font color='blue'>Learning goal:</font> Understand the properties of an RCCR and RLC circuit. 
