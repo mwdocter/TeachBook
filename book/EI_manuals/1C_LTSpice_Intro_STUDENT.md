@@ -60,7 +60,8 @@ BASIC = background, anticipate, simulate, implement & investigate, compare&concl
 - 15 min compare&conclude                    : with group of 4 (per table)
 
 
-# Experiment 1C: Design voltage dividers with LTSpice to change the output voltage
+# Experiment 1C: LTSpice simulations
+(Design voltage dividers with LTSpice to change the output voltage)
 > <font color='blue'>Learning goal:</font> get introduced to the LTspice program, and design voltage dividers
 
 
