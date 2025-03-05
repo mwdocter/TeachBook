@@ -44,7 +44,7 @@ parts:
       - file: EI_manuals/13B_OPAMP_bandwidth_STUDENT.ipynb
       - file: EI_manuals/13C_integrator_and_differentiator_STUDENT.ipynb
       - file: EI_manuals/14A_differential_and_common_mode_STUDENT.ipynb
-      - file: EI_manuals/14B_comparator_(with_hysteresis)_final_STUDENT.ipynb
+      - file: EI_manuals/14B_comparator_with_hysteresis_final_STUDENT.ipynb
       - file: EI_manuals/14C_magnet_bridge_STUDENT.ipynb
     - file: exercises.md
       sections:
