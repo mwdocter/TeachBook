@@ -63,7 +63,7 @@ Structure of an experiment:
 
 <!-- #endregion -->
 
-# Experiment 4A: Scope Spectrum
+# 4A: Scope Spectrum
 (Work with Fourier Tansforms using the oscilloscope)
 ><font color='blue'>Learning goal:</font> To be able to visualize the Fourier transform on the oscilloscope and relate changes in the frequency spectrum to changes in your signal.
 
