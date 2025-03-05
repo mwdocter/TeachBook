@@ -60,9 +60,6 @@ Structure of an experiment:
 
 
 # 3B: scope probes
-
-
-
 > <font color='blue'>Learning goal:</font> Understand when scope probes are used,when it is better to use coax cables and what do you need to remember when using the probes
 
 
