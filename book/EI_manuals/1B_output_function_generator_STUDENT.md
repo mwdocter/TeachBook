@@ -60,7 +60,8 @@ BASIC = background, anticipate, simulate, implement & investigate, compare&concl
 - 10 min compare&conclude                    : with group of 4 (per table)
 
 
-# Experiment 1B: Use a function generator to vary the voltage on the load resistance
+# Experiment 1B: Function Generator
+(Use a function generator to vary the voltage on the load resistance)
 
 ><font color='blue'>Learning goal:</font>
 Understand how to connect the function generator, use the proper settings, and measure quantities such as the voltage.
