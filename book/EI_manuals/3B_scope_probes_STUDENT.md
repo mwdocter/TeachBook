@@ -59,7 +59,7 @@ Structure of an experiment:
 - Compare + Conclude (10 min): with a group of 4(per table)
 
 
-# EXPERIMENT 3B: Simulating and using scope probes
+# EXPERIMENT 3B: scope probes
 
 
 
