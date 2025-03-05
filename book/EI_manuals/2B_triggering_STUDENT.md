@@ -60,7 +60,8 @@ Structure of experiment:
 - Compare & Conclude (10 min): with group of 4 (per table)
 
 
-# Experiment 2B: Apply the correct triggering between function generator and oscilloscope
+# Experiment 2B: Triggering
+(Apply the correct triggering between function generator and oscilloscope)
 > <font color='blue'>Learning goal:</font> understand what triggering is, how you can use it with the oscilloscope and the function generator, and why it is useful.
 
 ## Background
