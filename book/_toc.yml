@@ -34,18 +34,18 @@ parts:
       - file: EI_manuals/9C Signal Denoising by Average STUDENT.md
     - file: EI_manual_octal3.md
       sections:
-      - file: EI_manuals/1A_DMM+voltage_divider_STUDENT.md
-      - file: EI_manuals/1B_output_function_generator_STUDENT.md
-      - file: EI_manuals/1C_LTSpice_Intro_STUDENT.md
-      - file: EI_manuals/2A_using_a_scope_STUDENT.md
-      - file: EI_manuals/2B_triggering_STUDENT.md
-      - file: EI_manuals/2C_Thevenin_equivalent_with_picoPI_STUDENT.md
-      - file: EI_manuals/3A_RC-RL_circuits_STUDENT.md
-      - file: EI_manuals/3B_scope_probes_STUDENT.md
-      - file: EI_manuals/3C_ground_loop_STUDENT.md
-      - file: EI_manuals/4A_Fourier_Transform_STUDENT.md
-      - file: EI_manuals/4B_RC_STUDENTv2.md
-      - file: EI_manuals/4C_RCCR_STUDENT_v2.md
+      - file: EI_manuals/11A Diode Clippers STUDENT.md
+      - file: EI_manuals/11B_Diode_rectifier STUDENT.md
+      - file: EI_manuals/11C_Full_Bridge_Rectifier STUDENT.md
+      - file: EI_manuals/12A non inverting OPAMP STUDENT.md
+      - file: EI_manuals/12B inverting OPAMP STUDENT.md
+      - file: EI_manuals/12C OPAMP current to voltage STUDENT.md
+      - file: EI_manuals/13A bias and offset STUDENT.md
+      - file: EI_manuals/13B OPAMP bandwidth STUDENT.md
+      - file: EI_manuals/13C integrator and differentiator STUDENT.md
+      - file: EI_manuals/14A differential and common mode STUDENT.md
+      - file: EI_manuals/14B comparator (with hysteresis) final STUDENT.md
+      - file: EI_manuals/14C magnet bridge STUDENT.md
     - file: exercises.md
       sections:
       - file: exercises/001.md
