@@ -25,7 +25,7 @@ parts:
       - file: references.md
     - file: changelog.md
     - file: credits.md
-    - file: EI_manual/1A_DMM+voltage_divider_STUDENT.md
+    - file: EI_manuals/1A_DMM+voltage_divider_STUDENT.md
     - file: EI_manual_description.md
       sections:
       - file: EI_manuals/1B_output_function_generator_STUDENT.md
