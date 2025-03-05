@@ -27,11 +27,11 @@ parts:
       - file: EI_manuals/7B Fourier Transform Python STUDENT.md
       - file: EI_manuals/7C receive Morse STUDENT.md
       - file: EI_manuals/8A Automated filter response STUDENT.md
-      - file: EI_manuals/8BAliasing a single sine STUDENT.md
+      - file: EI_manuals/8B Aliasing a single sine STUDENT.md
       - file: EI_manuals/8C Aliasing multiple sines STUDENT.md
       - file: EI_manuals/9A Anti-Aliasing STUDENT.md
       - file: EI_manuals/9B Digital Filtering and Averaging STUDENT.md
-      - file: EI_manuals/9CSignal Denoising by Average STUDENT.md
+      - file: EI_manuals/9C Signal Denoising by Average STUDENT.md
     - file: EI_manual_octal3.md
       sections:
       - file: EI_manuals/1A_DMM+voltage_divider_STUDENT.md
