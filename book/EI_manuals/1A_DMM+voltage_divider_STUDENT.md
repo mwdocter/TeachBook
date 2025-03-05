@@ -60,7 +60,8 @@ BASIC = background, anticipate, simulate, implement & investigate, compare&concl
 - 10 min compare&conclude                  : with group of 4 (per table)
 
 
-# Experiment 1A: Work with a digital multimeter to measure a voltage divider
+# Experiment 1A: DMM digital multi meter
+(Work with a digital multimeter to measure a voltage divider)
 > <font color='blue'>Learning goal:</font> understand how to use the DMM, how it behaves as part of a (voltage divider) circuit, and what its limitations are.
 
 In each assignment the estimated time you will spend per part is given. If you spend much more time than that, it is a clear sign to ask for help sooner. 
