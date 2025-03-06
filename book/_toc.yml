@@ -5,7 +5,7 @@ parts:
   - caption: Contents of Teachbook demo
     chapters:
     
-    - file: EI_manual_octal1.md
+    - file: EI_manual_octal2.md
       sections:
       - file: EI_manuals/1A_DMM+voltage_divider_STUDENT.md
       - file: EI_manuals/1B_output_function_generator_STUDENT.md
@@ -20,7 +20,7 @@ parts:
       - file: EI_manuals/4B_RC_STUDENTv2.md
       - file: EI_manuals/4C_RCCR_STUDENT_v2.md
       
-    - file: EI_manual_octal2.md
+    - file: EI_manual_octal1.md
       
     - file: EI_manual_octal3.md
       
