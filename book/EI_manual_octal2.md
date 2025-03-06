@@ -1,3 +1,4 @@
+# EI manuals octal 2
 this octal focuses on the interplay between software and hardware.   
 
 It contains:
