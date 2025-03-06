@@ -1,4 +1,4 @@
-this octal focuses on the interplay between software and hardware.  
+this octal focuses on the interplay between software and hardware.   
 
 It contains:
 - 6A NI-DAQ + Stepper motor : use logic digital out to make a motor spin
