@@ -21,34 +21,9 @@ parts:
       - file: EI_manuals/4C_RCCR_STUDENT_v2.md
       
     - file: EI_manual_octal2.md
-      sections:
-      - file: EI_manuals/6A_NI-DAQ+Stepper_motor_STUDENT.ipynb
-      - file: EI_manuals/6B_logic+morse_STUDENT.ipynb
-      - file: EI_manuals/6C_Whack-a-mole_STUDENT.ipynb
-      - file: EI_manuals/7A_Analog_Inputs_STUDENT.ipynb
-      - file: EI_manuals/7B_Fourier_Transform_Python_STUDENT.ipynb
-      - file: EI_manuals/7C_receive_Morse_STUDENT.ipynb
-      - file: EI_manuals/8A_Automated_filter_response_STUDENT.ipynb
-      - file: EI_manuals/8B_Aliasing_a_single_sine_STUDENT.ipynb
-      - file: EI_manuals/8C_Aliasing_multiple_sines_STUDENT.ipynb
-      - file: EI_manuals/9A_Anti-Aliasing_STUDENT.ipynb
-      - file: EI_manuals/9B_Digital_Filtering_and_Averaging_STUDENT.ipynb
-      - file: EI_manuals/9C_Signal_Denoising_by_Average_STUDENT.ipynb
       
     - file: EI_manual_octal3.md
-      sections:
-      - file: EI_manuals/11A_Diode_Clippers_STUDENT.ipynb
-      - file: EI_manuals/11B_Diode_rectifier_STUDENT.ipynb
-      - file: EI_manuals/11C_Full_Bridge_Rectifier_STUDENT.ipynb
-      - file: EI_manuals/12A_non_inverting_OPAMP_STUDENT.ipynb
-      - file: EI_manuals/12B_inverting_opamp_STUDENT.ipynb
-      - file: EI_manuals/12C_OPAMP_current_to_voltage_opamp_converter_STUDENT.ipynb
-      - file: EI_manuals/13A_bias_and_offset_STUDENT.ipynb
-      - file: EI_manuals/13B_OPAMP_bandwidth_STUDENT.ipynb
-      - file: EI_manuals/13C_integrator_and_differentiator_STUDENT.ipynb
-      - file: EI_manuals/14A_differential_and_common_mode_STUDENT.ipynb
-      - file: EI_manuals/14B_comparator_with_hysteresis_final_STUDENT.ipynb
-      - file: EI_manuals/14C_magnet_bridge_STUDENT.ipynb
+      
       
     - file: exercises.md
       sections:
