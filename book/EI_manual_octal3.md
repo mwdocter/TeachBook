@@ -1,3 +1,4 @@
+# EI manuals octal 3
 This folder contains all notebooks of octal 3 (and since they are notebooks, they do not necessarily look the most pretty in html)
 
 - 11A_Diode_Clippers
