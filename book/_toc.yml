@@ -7,18 +7,18 @@ parts:
     
     - file: EI_manual_octal1.md
       sections:
-      - file: EI_manuals/1A_DMM+voltage_divider_STUDENT.md
-      - file: EI_manuals/1B_output_function_generator_STUDENT.md
-      - file: EI_manuals/1C_LTSpice_Intro_STUDENT.md
-      - file: EI_manuals/2A_using_a_scope_STUDENT.md
-      - file: EI_manuals/2B_triggering_STUDENT.md
-      - file: EI_manuals/2C_Thevenin_equivalent_with_picoPI_STUDENT.md
-      - file: EI_manuals/3A_RC-RL_circuits_STUDENT.md
-      - file: EI_manuals/3B_scope_probes_STUDENT.md
-      - file: EI_manuals/3C_ground_loop_STUDENT.md
-      - file: EI_manuals/4A_Fourier_Transform_STUDENT.md
-      - file: EI_manuals/4B_RC_STUDENTv2.md
-      - file: EI_manuals/4C_RCCR_STUDENT_v2.md
+      - file: EI_manuals/1A_DMM+voltage_divider_STUDENT.ipynb
+      - file: EI_manuals/1B_output_function_generator_STUDENT.ipynb
+      - file: EI_manuals/1C_LTSpice_Intro_STUDENT.ipynb
+      - file: EI_manuals/2A_using_a_scope_STUDENT.ipynb
+      - file: EI_manuals/2B_triggering_STUDENT.ipynb
+      - file: EI_manuals/2C_Thevenin_equivalent_with_picoPI_STUDENT.ipynb
+      - file: EI_manuals/3A_RC-RL_circuits_STUDENT.ipynb
+      - file: EI_manuals/3B_scope_probes_STUDENT.ipynb
+      - file: EI_manuals/3C_ground_loop_STUDENT.ipynb
+      - file: EI_manuals/4A_Fourier_Transform_STUDENT.ipynb
+      - file: EI_manuals/4B_RC_STUDENTv2.ipynb
+      - file: EI_manuals/4C_RCCR_STUDENT_v2.ipynb
       
     - file: EI_manual_octal2.md
       sections:
