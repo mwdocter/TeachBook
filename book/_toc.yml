@@ -4,7 +4,7 @@ root: intro.md
 parts:
   - caption: Contents of Teachbook demo
     chapters:
-    - file: EI_manual_octal1.md
+    - file: EI_manual_intros.md
       sections:
       - file: EI_manuals/intro_testboards.ipynb
       - file: EI_manuals/intro_power_supply_Agilent.ipynb
