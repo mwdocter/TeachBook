@@ -11,7 +11,7 @@ parts:
       - file: EI_manuals/intro_DMM_Agilent+handheld.ipynb
       - file: EI_manuals/intro_function_generator.ipynb
       - file: EI_manuals/intro_scope_Agilent.ipynb
-      - file: EI_manuals/intro_LTSpice_old.ipynb
+      - file: EI_manuals/intro_LTSpice.ipynb
       - file: EI_manuals/intro_ALPACA.ipynb
     - file: EI_manual_octal1.md
       sections:
