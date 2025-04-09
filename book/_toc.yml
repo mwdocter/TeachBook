@@ -62,6 +62,8 @@ parts:
     - file: EI_manual_octal4.md
       sections:
       - file:  EI_manuals/16A_Simulation_STUDENT.ipynb
+      - file:  EI_manuals/16B_Simple_Oscillator_STUDENT.ipynb
+      - file:  EI_manuals/16C_Light_Sensor_STUDENT.ipynb
      
       
     - file: exercises.md
