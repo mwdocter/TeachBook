@@ -30,19 +30,7 @@ parts:
       - file: EI_manuals/4C_RCCR_STUDENT_v2.ipynb
       
     - file: EI_manual_octal2.md
-      sections:
-      - file: EI_manuals/6A_NI-DAQ+Stepper_motor_STUDENT.ipynb
-      - file: EI_manuals/6B_logic+morse_STUDENT.ipynb
-      - file: EI_manuals/6C_Whack-a-mole_STUDENT.ipynb
-      - file: EI_manuals/7A_Analog_Inputs_STUDENT.ipynb
-      - file: EI_manuals/7B_Fourier_Transform_Python_STUDENT.ipynb
-      - file: EI_manuals/7C_receive_Morse_STUDENT.ipynb
-      - file: EI_manuals/8A_Automated_filter_response_STUDENT.ipynb
-      - file: EI_manuals/8B_Aliasing_a_single_sine_STUDENT.ipynb
-      - file: EI_manuals/8C_Aliasing_multiple_sines_STUDENT.ipynb
-      - file: EI_manuals/9A_Anti-Aliasing_STUDENT.ipynb
-      - file: EI_manuals/9B_Digital_Filtering_and_Averaging_STUDENT.ipynb
-      - file: EI_manuals/9C_Signal_Denoising_by_Average_STUDENT.ipynb
+
       
     - file: EI_manual_octal3.md
       sections:
@@ -62,6 +50,16 @@ parts:
     - file: EI_manual_octal4.md
       sections:
       - file: EI_manuals/16A_Simulation_STUDENT.ipynb
+      - file: EI_manuals/16B_Simple_Oscillator_STUDENT.ipynb
+      - file: EI_manuals/16C_Light_Sensor_STUDENT.ipynb
+      - file: EI_manuals/17A-Design_and_Limitations.ipynb
+      - file: EI_manuals/17B-Testing_and_Calibration.ipynb
+      - file: EI_manuals/17C-Modelling_the_Potentiostat.ipynb
+      - file: EI_manuals/18A-CV-Data_Acquisition.ipynb
+      - file: EI_manuals/18B-CV-Data_Evaluation.ipynb
+      - file: EI_manuals/18o-Advanced_Voltammetric_Techniques.ipynb
+      - file: EI_manuals/19A-CV-Experiments.ipynb
+      - file: EI_manuals/19o-Advanced_Voltametric_Experiments.ipynb
 
      
       
