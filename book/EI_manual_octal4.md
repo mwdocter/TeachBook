@@ -11,6 +11,6 @@ This folder contains all notebooks of octal 4 (and since they are notebooks, the
     - 17C: modelling the potentiostat
     - 18A: Cyclic voltammtery (CV) acquisition
     - 18B: CV evaluation
-    - 18optional: advanced topics
+    - 18o (optional): advanced topics
     - 19A: CV experiments
-    - 19optional: further ideas to explore
+    - 19o (optional): further ideas to explore
