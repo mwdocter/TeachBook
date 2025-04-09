@@ -13,6 +13,7 @@ parts:
       - file: EI_manuals/intro_scope_Agilent.ipynb
       - file: EI_manuals/intro_LTSpice.ipynb
       - file: EI_manuals/intro_ALPACA.ipynb
+      
     - file: EI_manual_octal1.md
       sections:
       - file: EI_manuals/1A_DMM+voltage_divider_STUDENT.ipynb
