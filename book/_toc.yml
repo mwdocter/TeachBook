@@ -60,6 +60,8 @@ parts:
       - file: EI_manuals/14C_magnet_bridge_STUDENT.ipynb
       
     - file: EI_manual_octal4.md
+      sections:
+      - file: EI_manuals/16A_Simulation_STUDENT.ipynb
 
      
       
