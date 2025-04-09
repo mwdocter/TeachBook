@@ -30,7 +30,9 @@ parts:
       - file: EI_manuals/4C_RCCR_STUDENT_v2.ipynb
       
     - file: EI_manual_octal2.md
-
+      sections:
+      - file: EI_manuals/6A_NI-DAQ+Stepper_motor_STUDENT.ipynb
+      
       
     - file: EI_manual_octal3.md
       sections:
@@ -52,7 +54,7 @@ parts:
       - file: EI_manuals/16A_Simulation_STUDENT.ipynb
       - file: EI_manuals/16B_Simple_Oscillator_STUDENT.ipynb
       - file: EI_manuals/16C_Light_Sensor_STUDENT.ipynb
-
+      
 
      
       
