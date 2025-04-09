@@ -64,14 +64,7 @@ parts:
       - file: EI_manuals/16A_Simulation_STUDENT.ipynb
       - file: EI_manuals/16B_Simple_Oscillator_STUDENT.ipynb
       - file: EI_manuals/16C_Light_Sensor_STUDENT.ipynb
-      - file: EI_manuals/17A-Design_and_Limitations.ipynb
-      - file: EI_manuals/17B-Testing_and_Calibration.ipynb
-      - file: EI_manuals/17C-Modelling_the_Potentiostat.ipynb
-      - file: EI_manuals/18A-CV-Data_Acquisition.ipynb
-      - file: EI_manuals/18B-CV-Data_Evaluation.ipynb
-      - file: EI_manuals/18o-Advanced_Voltammetric_Techniques.ipynb
-      - file: EI_manuals/19A-CV-Experiments.ipynb
-      - file: EI_manuals/19o-Advanced_Voltametric_Experiments.ipynb
+
      
      
       
