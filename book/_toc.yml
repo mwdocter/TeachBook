@@ -67,7 +67,7 @@ parts:
       - file: EI_manuals/16B_Simple_Oscillator_STUDENT.ipynb
       - file: EI_manuals/16C_Light_Sensor_STUDENT.ipynb
       - file: EI_manuals/17A-Design_and_Limitations.ipynb
-
+      - file: EI_manuals/17C-Modelling_the_Potentiostat.ipynb
 
      
       
