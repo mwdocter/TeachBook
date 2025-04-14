@@ -69,7 +69,8 @@ parts:
       - file: EI_manuals/17A-Design_and_Limitations.ipynb
       - file: EI_manuals/17C-Modelling_the_Potentiostat.ipynb
       - file: EI_manuals/18A-CV-Data_Acquisition.ipynb
-
+      - file: EI_manuals/18B-CV-Data_Evaluation.ipynb
+      - file: EI_manuals/18o-Advanced_Voltammetric_Techniques.ipynb
      
       
     - file: exercises.md
