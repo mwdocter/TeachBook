@@ -1,7 +1,7 @@
 # EI manuals week 2
 
 ## This week's goal: 
-Understanding the use of an oscilloscope (voltage, triggering) ad the use of the ALPACA 
+Understanding the use of an oscilloscope (voltage, triggering) and the use of the ALPACA 
 
 ## Topic of experiments
 
