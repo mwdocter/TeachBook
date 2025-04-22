@@ -1,18 +1,15 @@
-# EI manuals octal 1
+# EI manuals week 2
 
-This is a way to share the the practicum manuals from NB2214 Electronic Instrumentation to a larger audience. 
+## This week's goal: 
+Understanding the use of an oscilloscope (voltage, triggering) ad the use of the ALPACA 
 
-The topics are as follows:
+## Topic of experiments
 
-- 1A_DMM+voltage_divider: influence of voltmeter on measurement, use of power supply
-- 1B_output_function_generator: influence of function generator on measurement
-- 1C_LTSpice_Intro_STUDENT: use of electronic circuit simulation, simulate stacked divider
-- 2A_using_a_scope_STUDENT: use of scope
-- 2B_triggering_STUDENT: use of triggering
-- 2C_Thevenin_equivalent_with_picoPI_STUDENT: use of Alpaca, measure Thevenin voltage
-- 3A_RC-RL_circuits_STUDENT: filter in time domain
-- 3B_scope_probes_STUDENT: counteract capacitance in coax cable
-- 3C_ground_loop_STUDENT: what is a ground loop, how to avoid
-- 4A_Fourier_Transform_STUDENT, use the scope for frequency analysis, FFT of a signal
-- 4B_RC_STUDENTv2, filter in frequency domain
-- 4C_RCCR_STUDENT_v2, band pass in frequency domain
+- 2A: AC/DC coupling and frequency
+- 2B: Triggering
+- 2C: Thevenin equivalent with the ALPACA
+
+## new equipment and circuits
+oscilloscope: measurement device to measure and display voltage
+triggering: a way to synchronize the start of a measurement
+ALPACA: Advanced Learning Platform for Analog Circuits and Automation, which you borrow for this course, and with a Raspberry Pico Pi which you can control with Python code. 
