@@ -4,8 +4,6 @@ root: intro.md
 parts:
   - caption: Contents of Teachbook demo
     chapters:
-    - file: Styleguide.md
-    
     - file: EI_manual_intros.md
       sections:
       - file: EI_manuals/intro_testboards.ipynb
