@@ -40,6 +40,9 @@ Students are encouraged to answer the questions and then write what they learned
 - 4. How do think this notebook could be improved
 
 
+```python
+
+```
 
 # Styleguide (per week)
 In the overall structure, the experiments (often ABC) are organised in sections of one week. 
@@ -170,4 +173,19 @@ if upload.value!={}:
         except: f.write(upload.value[-1]["content"])  # python 3.8 Kernel code, works on Vocareum if you change the kernel
 
 Image(filename=file_name, width="50%")
+```
+
+## Markdown versus html
+
+dropdown menu!! liever markdown admonition (welke plugin?) dan details in html -> search replace
+    
+```{admonition} Numeric answe
+:class: dropdown, seealso
+$V_{Th}$=20 V 
+$R_{Th}$=20 k$\Omega$ 
+You could still calculate $I_{no}$ and verify whether this is equal to $\frac{V_{Th}}{R_{Th}}$
+```
+
+```python
+
 ```
