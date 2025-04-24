@@ -9,7 +9,7 @@ parts:
       - file: EI_manuals/intro_testboards.ipynb
       - file: EI_manuals/intro_power_supply_Siglent.ipynb
       - file: EI_manuals/intro_DMM_Siglent+handheld.ipynb
-      - file: EI_manuals/intro_function_generator.ipynb
+      - file: EI_manuals/intro_function_generator_Siglent.ipynb
       - file: EI_manuals/intro_scope_Agilent.ipynb
       - file: EI_manuals/intro_LTSpice.ipynb
       - file: EI_manuals/intro_ALPACA.ipynb
