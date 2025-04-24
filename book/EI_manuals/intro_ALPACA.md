@@ -13,27 +13,6 @@ jupyter:
     name: alpaca
 ---
 
-<div class="alert alert-block alert-info">
-
-**Accessibility of the notebook:**
-- You can adjust the width of the text with the function provided below. Copy it into a new code cell and execute it using the `ipykernel`.
-    ```python
-    from IPython.core.display import HTML
-    def set_width(width):
-        display(HTML(f"""<style>  
-                .container {{ width:{width}% !important; 
-                                min-width:800px !important; margin: 0 auto}} 
-                .jp-Cell {{ width:{width}% !important; 
-                                min-width:800px !important; margin: 0 auto}} </style>"""))
-    # Set container width to X% of the fullscreen 
-    set_width(50)
-    ```
-- You can toggle the auto-numbering of the sections in the outline toolbox (sidebar or topbar).
-- You can toggle the code line numbers in the dropdown menu of the "view" button in the topbar. 
-- You can collapse/expand a cell by clicking the blue bar on the left side of the cell.
-
-</div>
-
 ```python
 from IPython.core.display import HTML
 def set_width(width):
