@@ -4,10 +4,11 @@ root: intro.md
 parts:
   - caption: Contents of Teachbook demo
     chapters:
-    - file: EI_manual_intros.md
+    
     - file: Styleguide.md
-    - file: EI_manuals/Intro_Biophysics_to_Jupyter_Notebook
+    - file: EI_manual_intros.md
       sections:
+      - file: EI_manuals/Intro_Biophysics_to_Jupyter_Notebook
       - file: EI_manuals/intro_testboards.ipynb
       - file: EI_manuals/intro_power_supply_Siglent.ipynb
       - file: EI_manuals/intro_DMM_Siglent+handheld.ipynb
