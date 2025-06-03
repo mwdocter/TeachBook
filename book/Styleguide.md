@@ -177,15 +177,22 @@ Image(filename=file_name, width="50%")
 
 ## Markdown versus html
 
-dropdown menu!! liever markdown admonition (welke plugin?) dan details in html -> search replace
+There are two ways of having dropdown menu's. 
+
+Inside a markdown file (not ipynb) you can best use admonition like below. 
+
+In ipynb you need to use details from html, as the admonition is not visible. 
     
-```{admonition} Numeric answe
+```{admonition} Numeric answer
 :class: dropdown, seealso
 $V_{Th}$=20 V 
 $R_{Th}$=20 k$\Omega$ 
 You could still calculate $I_{no}$ and verify whether this is equal to $\frac{V_{Th}}{R_{Th}}$
 ```
-
+<details>
+  <summary>Epcot Center</summary>
+  <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</p>
+</details>
 ```python
 
 ```
