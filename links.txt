@@ -1,0 +1,17 @@
+https://mwdocter.github.io/TeachBook/main/intro.html
+
+dit gaat worden (uiteindelijk): https://github.com/NB-TUDelft/Electronic_Instrumentation
+
+already checked:
+1abc
+2ac
+3abc
+4ac
+11abc
+12ABC
+13B
+
+STILL TO ADAPT:
+2B: moet getest worden met setup, triggering is bij deze scope en funcgen anders
+4b: I&I2: heel beperkte code te schrijven, moet dat niet meer zijn?
+13a: LM471 plaatjes zijn van oude versie ltspice. Daarnaast moet het getest worden, voor veel studenten was het te lastig. (nieuwe youtube opname?)
