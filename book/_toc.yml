@@ -46,8 +46,8 @@ parts:
     - file: EI_manual_week7.md
       sections:
       - file: EI_manuals/7A_Analog_Inputs_STUDENT.ipynb
-      - file: EI_manuals/7B_receive_Morse_STUDENT.ipynb
-      - file: EI_manuals/7C_Fourier_Transform_Python_STUDENT.ipynb
+      - file: EI_manuals/7B_Fourier_Transform_Python_STUDENT.ipynb
+      - file: EI_manuals/7C_receive_Morse_STUDENT.ipynb
     - file: EI_manual_week8.md
       sections:
       - file: EI_manuals/8A_Automated_filter_response_STUDENT.ipynb
